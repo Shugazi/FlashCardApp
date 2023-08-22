@@ -1,0 +1,42 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Default ignored files
+/shelf/
+/workspace.xml
+# Compiled binaries
+*.class
+*.jar
+*.war
+
+# Build directories
+build/
+out/
+
+# Logs
+*.log
+
+# Local configurations
+*.properties
+
+# IDE specific (e.g., IntelliJ IDEA)
+.idea/
+*.iml
+
+# macOS specific
+.DS_Store
+
+# Gradle specific
+.gradle/
